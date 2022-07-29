@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: counting-library
+  name: inventory-library
   description: Library for managing inventories
   tags:
     - kotlin
